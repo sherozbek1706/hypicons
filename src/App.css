@@ -1,7 +1,7 @@
 .device {
   display: none;
 }
-@media (max-width: 1250px) {
+@media (max-width: 1240px) {
   * {
     display: none;
   }
