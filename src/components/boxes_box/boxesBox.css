@@ -1,0 +1,16 @@
+.BoxesBox{
+  margin-right: 50px;
+  width: 250px;
+}
+.BoxesBox__title{
+  color: #fff;
+  font-weight: 600;
+  font-size: 15px;
+}
+.BoxesBox__text{
+  color: #fff;
+  font-size: 13px;
+  font-weight: 200;
+  line-height: 24px;
+  width: 200px;
+}

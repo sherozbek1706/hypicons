@@ -1,0 +1,8 @@
+.device {
+  display: none;
+}
+@media (max-width: 1250px) {
+  * {
+    display: none;
+  }
+}

@@ -1,0 +1,46 @@
+.Main {
+  width: 100%;
+  background: url("../../assets/main_bg.png") no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 700px;
+}
+.Main__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 60px;
+  padding: 0 20px;
+}
+.Main__header .header__logo {
+  height: 15px;
+}
+.Main__header .Main__nav {
+  display: flex;
+}
+.Main__header .Main__nav .nav__link {
+  font-family: "IBM Plex Mono";
+  color: white;
+  font-size: 12px;
+  margin: 0 10px;
+  text-decoration: none;
+}
+.Main__custom {
+  display: flex;
+  flex-direction: column;
+  padding-left: 60px;
+  margin: 60px 0;
+}
+.Main__custom .custom__pack{
+  font-weight: 500;
+  color: #fff;
+  padding: 10px 0;
+}
+.Main__custom .custom__text{
+  font-size: 32px;
+  color: #fff;
+  width: 440px;
+  font-weight: 800;
+  margin-bottom: 40px;
+}

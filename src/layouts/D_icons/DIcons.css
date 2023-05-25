@@ -1,0 +1,11 @@
+.DIcons{
+  width: 100%;
+  min-height:800px ;
+  background-color: black;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 40px 0;
+}

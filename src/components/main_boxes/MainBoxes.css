@@ -1,0 +1,6 @@
+.Main__boxes{
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-left: 60px;
+}

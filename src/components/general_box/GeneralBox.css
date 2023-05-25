@@ -1,0 +1,14 @@
+.GeneralBox__box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 40px;
+}
+.GeneralBox__box h3{
+  margin: 20px 0;
+}
+.GeneralBox__box p{
+  font-weight: 300;
+  padding: 1px 0;
+}

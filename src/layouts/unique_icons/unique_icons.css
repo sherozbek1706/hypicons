@@ -1,0 +1,17 @@
+.UniqueIcons{
+  width: 100%;
+  min-height: 800px;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.UniqueIcons__text h1{
+  color: #fff;
+  margin: 40px 0;
+}
+.text__paragraph{
+  color: #fff;
+  margin: 10px 0 ;
+  margin-left: 30px;
+}

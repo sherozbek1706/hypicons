@@ -1,0 +1,23 @@
+.Grab {
+  width: 100%;
+  height: 450px;
+  background: url("../../assets/grab_the_pack.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+}
+.Grab h1{
+  font-size: 52px;
+  font-weight: 700;
+  margin: 25px 0;
+}
+.Grab p{
+  font-size: 20px;
+  margin: 15px;
+  font-weight: 400;
+  margin-bottom: 32px;
+}

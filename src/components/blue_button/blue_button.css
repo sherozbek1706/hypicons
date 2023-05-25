@@ -1,0 +1,9 @@
+.BlueButton {
+  padding: 6px 28px;
+  font-family: "IBM Plex Mono";
+  font-size: 12px;
+  border-radius: 50px;
+  background: #9400ff;
+  border: none;
+  color: #ffffff;
+}
